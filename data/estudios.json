@@ -308,6 +308,29 @@
     "datos": []
   },
   {
+    "id": "3m-lite",
+    "categoria": 0,
+    "nombre": "3M Lite",
+    "frase": "Es un modelo matemático y estadístico realizado por IA que analiza el impacto de las variables de inversión publicitaria en todos los medios, sobre los indicadores de marca. Es la metodología para demostrar el impacto de los medios real de las campañas publicitarias",
+    "puntos": [],
+    "tiempos": [],
+    "etiquetas": [],
+    "imagen": {
+      "ruta": "/assets/estudios/3m-lite-3ad4a1293a27.webp",
+      "alt": "NA",
+      "ajuste": "fit"
+    },
+    "intro": "1.Overview y primeras hipótesis: Integración de datos: Enfoque e hipótesis, recopilación y consolidación de datos, discusión, verificación de datos. Es necesario contar con información histórica de 1 a 3 años para todas las variables involucradas.\n2.Sumamos la historia: Analizamos el historial de indicadores de marca, la inversión en cada medio, los precios y la estacionalidad. Un modelo estadístico calcula cuánto aporta cada canal al resultado final de la marca.\n3.Optimizamos el dinero: Unimos el análisis IA con las cuentas históricas para decirle a la marca exactamente qué hacer. Impacto de los medios, presupuesto óptimo y división del presupuesto entre medios más eficientes, herramienta de escenarios.",
+    "secciones": [],
+    "cronograma": [
+      {
+        "duracion": "Kick-off & Alineación",
+        "actividad": "Definir variables e hipótesis del negocio // Acordar roles y responsabilidades // Entregar plantilla de requerimiento de datos."
+      }
+    ],
+    "datos": []
+  },
+  {
     "id": "territoryscan",
     "categoria": 1,
     "nombre": "TerritoryScan",
