@@ -686,6 +686,24 @@
     "datos": []
   },
   {
+    "id": "estudio-de-prueba",
+    "categoria": 3,
+    "nombre": "Estudio de prueba",
+    "frase": "prueba editada",
+    "puntos": [],
+    "tiempos": [],
+    "etiquetas": [],
+    "imagen": {
+      "ruta": "/assets/estudios/estudio-de-prueba-cf289782cac6.webp",
+      "alt": "prueba",
+      "ajuste": "fit"
+    },
+    "intro": "",
+    "secciones": [],
+    "cronograma": [],
+    "datos": []
+  },
+  {
     "id": "dashboard-oc",
     "categoria": 3,
     "nombre": "Dashboard OC",
@@ -723,24 +741,6 @@
         "tipoLista": "ticks"
       }
     ],
-    "cronograma": [],
-    "datos": []
-  },
-  {
-    "id": "estudio-de-prueba",
-    "categoria": 3,
-    "nombre": "Estudio de prueba",
-    "frase": "Esto es solo una prueba.",
-    "puntos": [],
-    "tiempos": [],
-    "etiquetas": [],
-    "imagen": {
-      "ruta": "/assets/estudios/estudio-de-prueba-cf289782cac6.webp",
-      "alt": "prueba",
-      "ajuste": "fit"
-    },
-    "intro": "",
-    "secciones": [],
     "cronograma": [],
     "datos": []
   }
