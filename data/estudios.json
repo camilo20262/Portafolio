@@ -725,5 +725,23 @@
     ],
     "cronograma": [],
     "datos": []
+  },
+  {
+    "id": "prueba",
+    "categoria": 3,
+    "nombre": "Prueba",
+    "frase": "Esto es una prueba en produccion",
+    "puntos": [],
+    "tiempos": [],
+    "etiquetas": [],
+    "imagen": {
+      "ruta": "/assets/estudios/prueba-cf289782cac6.webp",
+      "alt": "Este es un diagrama de clases",
+      "ajuste": "fit"
+    },
+    "intro": "",
+    "secciones": [],
+    "cronograma": [],
+    "datos": []
   }
 ]
