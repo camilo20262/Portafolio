@@ -308,6 +308,31 @@
     "datos": []
   },
   {
+    "id": "x",
+    "categoria": 0,
+    "nombre": "x",
+    "frase": "xxx",
+    "puntos": [
+      "xxx",
+      "xxxx"
+    ],
+    "tiempos": [
+      "23"
+    ],
+    "etiquetas": [
+      "xc"
+    ],
+    "imagen": {
+      "ruta": "/assets/estudios/x-f8b413592458.webp",
+      "alt": "kia niro automovil",
+      "ajuste": "cover"
+    },
+    "intro": "xxxx",
+    "secciones": [],
+    "cronograma": [],
+    "datos": []
+  },
+  {
     "id": "territoryscan",
     "categoria": 1,
     "nombre": "TerritoryScan",
