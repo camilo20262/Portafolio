@@ -624,6 +624,62 @@
     "datos": []
   },
   {
+    "id": "coca-cola",
+    "categoria": 2,
+    "nombre": "Coca cola",
+    "frase": "Coca-cola es una bebida muy rica y fria que es muy buena para la sed",
+    "puntos": [
+      "para tomar mientras se juega futbol con los amigos",
+      "para tomar mientras jugamos videojuegos por las tardes"
+    ],
+    "tiempos": [
+      "10000"
+    ],
+    "etiquetas": [
+      "sdfdsfsdf"
+    ],
+    "imagen": {
+      "ruta": "/assets/estudios/coca-cola-512cc16c2ed0.webp",
+      "alt": "logo de coca cola",
+      "ajuste": "fit"
+    },
+    "intro": "",
+    "secciones": [
+      {
+        "titulo": "este es un detalle",
+        "parrafo": "coca cola tiene una inversion de 50 millones",
+        "lista": [
+          "coca cola 1",
+          "coca cola 2",
+          "coca cola 3"
+        ],
+        "tipoLista": "ticks"
+      },
+      {
+        "titulo": "Esta es un detalle",
+        "parrafo": "detalle de coca cola para ventas",
+        "lista": [
+          "ventas 1",
+          "ventas 2",
+          "ventas 3"
+        ],
+        "tipoLista": "ticks"
+      }
+    ],
+    "cronograma": [
+      {
+        "duracion": "5",
+        "actividad": "Prueba"
+      }
+    ],
+    "datos": [
+      {
+        "nombre": "Datos destacados",
+        "valor": "90000"
+      }
+    ]
+  },
+  {
     "id": "digital-brand-pulse",
     "categoria": 3,
     "nombre": "Digital Brand Pulse",
