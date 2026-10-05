@@ -624,24 +624,6 @@
     "datos": []
   },
   {
-    "id": "segunda-prueba-en-produccion",
-    "categoria": 2,
-    "nombre": "Segunda prueba en produccion",
-    "frase": "Segunda prueba en produccion",
-    "puntos": [],
-    "tiempos": [],
-    "etiquetas": [],
-    "imagen": {
-      "ruta": "/assets/estudios/segunda-prueba-en-produccion-e70dea83f02d.webp",
-      "alt": "hellou",
-      "ajuste": "fit"
-    },
-    "intro": "",
-    "secciones": [],
-    "cronograma": [],
-    "datos": []
-  },
-  {
     "id": "digital-brand-pulse",
     "categoria": 3,
     "nombre": "Digital Brand Pulse",
