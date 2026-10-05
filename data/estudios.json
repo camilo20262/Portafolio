@@ -247,6 +247,38 @@
     "datos": []
   },
   {
+    "id": "dicorp-tendencias-de-consumo",
+    "categoria": 0,
+    "nombre": "Dicorp Tendencias de consumo",
+    "frase": "Tendencias de alimentos",
+    "puntos": [],
+    "tiempos": [],
+    "etiquetas": [],
+    "imagen": {
+      "ruta": "/assets/estudios/dicorp-tendencias-de-consumo-f8a9260027a0.webp",
+      "alt": "DICORP",
+      "ajuste": "fit"
+    },
+    "intro": "ADSFGHHJKLK.,M NBVCDFUILK.,",
+    "secciones": [
+      {
+        "titulo": "SDFGHJKM,",
+        "parrafo": "WSRETDYUILK FYGUHJK 1",
+        "lista": [
+          "WSRETDYUILK FYGUHJK 2"
+        ],
+        "tipoLista": "ticks"
+      }
+    ],
+    "cronograma": [],
+    "datos": [
+      {
+        "nombre": "Inversión",
+        "valor": "50000"
+      }
+    ]
+  },
+  {
     "id": "preview-starview",
     "categoria": 0,
     "nombre": "Preview · Starview",
