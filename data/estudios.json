@@ -372,20 +372,12 @@
     "secciones": [
       {
         "titulo": "Conocimiento del evento",
-        "parrafo": "Lo interesante es que estas\nactividades incrementen la recordación de marca.\nPercepción de la experiencia.",
-        "lista": [],
-        "tipoLista": "steps"
-      },
-      {
-        "titulo": "Percepción de experiencia",
-        "parrafo": "Analizar los elementos que\ngeneran agrado o desagrado y las emociones que\ndespierta en los asistentes.",
-        "lista": [],
-        "tipoLista": "steps"
-      },
-      {
-        "titulo": "El mensaje que transmite",
-        "parrafo": "Acorde a los valores\nde la marca y se espera que lleve una idea concreta a sus\nasistentes.",
-        "lista": [],
+        "parrafo": "",
+        "lista": [
+          "dfjsdkfdas",
+          "adfsfas",
+          "adsfasdfa"
+        ],
         "tipoLista": "steps"
       }
     ],
