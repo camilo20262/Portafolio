@@ -360,36 +360,6 @@
     "datos": []
   },
   {
-    "id": "connecting-people",
-    "categoria": 0,
-    "nombre": "Connecting People",
-    "frase": "Analiza el éxito de tus activaciones de marca",
-    "puntos": [],
-    "tiempos": [],
-    "etiquetas": [],
-    "imagen": null,
-    "intro": "pensanding",
-    "secciones": [
-      {
-        "titulo": "Conocimiento del evento",
-        "parrafo": "",
-        "lista": [
-          "dfjsdkfdas",
-          "adfsfas",
-          "adsfasdfa"
-        ],
-        "tipoLista": "steps"
-      }
-    ],
-    "cronograma": [
-      {
-        "duracion": "fdgfd",
-        "actividad": "fdgfd"
-      }
-    ],
-    "datos": []
-  },
-  {
     "id": "territoryscan",
     "categoria": 1,
     "nombre": "TerritoryScan",
