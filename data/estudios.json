@@ -360,6 +360,39 @@
     "datos": []
   },
   {
+    "id": "connecting-people",
+    "categoria": 0,
+    "nombre": "Connecting People",
+    "frase": "Analiza el éxito de tus activaciones de marca",
+    "puntos": [],
+    "tiempos": [],
+    "etiquetas": [],
+    "imagen": null,
+    "intro": "pensanding",
+    "secciones": [
+      {
+        "titulo": "Conocimiento del evento",
+        "parrafo": "Lo interesante es que estas\nactividades incrementen la recordación de marca.\nPercepción de la experiencia.",
+        "lista": [],
+        "tipoLista": "ticks"
+      },
+      {
+        "titulo": "Percepción de experiencia",
+        "parrafo": "Analizar los elementos que\ngeneran agrado o desagrado y las emociones que\ndespierta en los asistentes.",
+        "lista": [],
+        "tipoLista": "ticks"
+      },
+      {
+        "titulo": "El mensaje que transmite",
+        "parrafo": "Acorde a los valores\nde la marca y se espera que lleve una idea concreta a sus\nasistentes.",
+        "lista": [],
+        "tipoLista": "ticks"
+      }
+    ],
+    "cronograma": [],
+    "datos": []
+  },
+  {
     "id": "territoryscan",
     "categoria": 1,
     "nombre": "TerritoryScan",
