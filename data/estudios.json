@@ -384,6 +384,19 @@
           "Duración, creatividad, semanas de emisión y niveles de impresiones/TRP que optimizan la comunicación en medios."
         ],
         "tipoLista": "ticks"
+      },
+      {
+        "titulo": "Esta información le permite:",
+        "parrafo": "",
+        "lista": [
+          "Asignar presupuestos de manera más eficiente entre la cartera de productos",
+          "Ajustar los presupuestos de medios en función de los objetivos de crecimiento",
+          "Detectar oportunidades para redistribuir el presupuesto de marketing y maximizar el impacto en las ventas",
+          "Identificar las campañas más eficaces y extraer conclusiones clave",
+          "Optimizar la distribución de la comunicación a lo largo del año, logrando niveles de presencia efectivos",
+          "Apoyar el desarrollo de la estrategia a largo plazo de la marca"
+        ],
+        "tipoLista": "steps"
       }
     ],
     "cronograma": [],
