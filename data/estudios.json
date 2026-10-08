@@ -367,7 +367,11 @@
     "puntos": [],
     "tiempos": [],
     "etiquetas": [],
-    "imagen": null,
+    "imagen": {
+      "ruta": "/assets/estudios/mmm-marketing-mix-modeling-aa081d4a4e15.webp",
+      "alt": "MMM",
+      "ajuste": "fit"
+    },
     "intro": "Metodología\n\nPara aislar el impacto de cada variable, analizamos simultáneamente todos los factores internos y externos que influyen en las ventas finales de la marca.",
     "secciones": [
       {
