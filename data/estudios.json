@@ -369,7 +369,23 @@
     "etiquetas": [],
     "imagen": null,
     "intro": "Metodología\n\nPara aislar el impacto de cada variable, analizamos simultáneamente todos los factores internos y externos que influyen en las ventas finales de la marca.",
-    "secciones": [],
+    "secciones": [
+      {
+        "titulo": "Marketing Impact & ROI Analysis",
+        "parrafo": "",
+        "lista": [
+          "Retorno de la inversión (ROI) por canal de medios y campaña (cómo se ha capitalizado la inversión en comunicación).",
+          "Efectos «paraguas» y «halo» entre campañas.",
+          "Contribución a las ventas derivada de precios, distribución, canales de medios y activaciones especiales.",
+          "Efecto de la fuerza de ventas.",
+          "Ventas base (sin comunicación).",
+          "Efecto precio.",
+          "Influencia de la comunicación de la competencia.",
+          "Duración, creatividad, semanas de emisión y niveles de impresiones/TRP que optimizan la comunicación en medios."
+        ],
+        "tipoLista": "ticks"
+      }
+    ],
     "cronograma": [],
     "datos": []
   },
